@@ -5,7 +5,6 @@ This is quite new as a project and I intend to make it better and with more func
 ---
 ![](lichess_rpc_first.png) ![](lichess_rpc_second.png)
 ![](lichess_rpc_third.png) ![](lichess_rpc_fourth.png)
----
 
 # Instructions
 ## For Windows
