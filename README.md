@@ -6,7 +6,7 @@ This is quite new as a project and I intend to make it better and with more func
 ![](lichess_rpc_first.png) ![](lichess_rpc_second.png)
 ![](lichess_rpc_third.png) ![](lichess_rpc_fourth.png)
 
-# Instructions
+**Instructions**
 ## For Windows
 
 - You should make sure you have installed at least a version of python. If not, go ahead and install it [here](https://www.python.org/downloads/).
