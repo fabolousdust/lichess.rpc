@@ -6,8 +6,8 @@ This is quite new as a project and I intend to make it better and with more func
 ![](lichess_rpc_first.png) ![](lichess_rpc_second.png)
 ![](lichess_rpc_third.png) ![](lichess_rpc_fourth.png)
 
-**Instructions**
-## For Windows
+# Instructions
+**For Windows:**
 
 - You should make sure you have installed at least a version of python. If not, go ahead and install it [here](https://www.python.org/downloads/).
 - Now click the green button labeled "Code" in the top right and download as zip afterwards. 
@@ -16,7 +16,7 @@ This is quite new as a project and I intend to make it better and with more func
 - Go ahead and edit `config.py` with your own username.
 - Afterwards run `python main.py` and it should work.
 
-## For Mac/Linux
+**For Mac/Linux:**
 
 - I believe you already know what you are doing, but still I'm writing a short guide here. You will most likely have python installed so go ahead and download the zip file.
 - After extracting, go ahead and open the terminal in the file. Install requirements with the same command `pip install -r requirements.txt` 
