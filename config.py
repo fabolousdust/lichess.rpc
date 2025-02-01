@@ -1,5 +1,5 @@
 # Your Lichess username
-LICHESS_USERNAME = "katapulta-kreative"
+LICHESS_USERNAME = ""
 
 # Don't change this
 DISCORD_CLIENT_ID = "1330997767446855752"
